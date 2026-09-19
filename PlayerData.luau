@@ -1,4 +1,6 @@
 --!strict
+-- Player data handler
+-- @k05i on discord
 
 const DISABLE_IN_STUDIO = true;
 
