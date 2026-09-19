@@ -2,6 +2,7 @@
 --optimize 2
 -- Custom Signal module designed to function just like bindable events
 -- Along with a workaround for autocomplete in studio :D
+-- @k05i on discord
 
 -- CONSTANT
 local Connection;
